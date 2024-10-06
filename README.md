@@ -1,2 +1,22 @@
-# Cpp-Module-07
-📚 C++ Modules 07, 08, and 09: Templates, STL Containers, and Algorithms
+# 🗂 Project Structure
+
+```
+cpp07/
+├── ex00/
+│   ├── Makefile
+│   ├── main.cpp
+│   └── whatever.hpp
+├── ex01/
+│   ├── Makefile
+│   ├── main.cpp
+│   └── iter.hpp
+└── ex02/
+    ├── Makefile
+    ├── main.cpp
+    └── Array.hpp
+
+```
+
+# 🎯 Module Overview
+🔑 Key Concepts
+* Function and class templates
