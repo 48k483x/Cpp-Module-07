@@ -30,6 +30,7 @@ Array<T>::Array(unsigned int n):  _array(new T[n]), _size(n){};
 
 template <typename T>
 Array<T>::Array(const Array& other): _size(other._size) {
+  this->_array = new T[_size];
   for (unsigned int i = 0; i < other._size; i++)
     this->_array[i] = other._array[i];
 }
