@@ -1,4 +1,3 @@
-# 🗂 Project Structure
 
 ```
 cpp07/
@@ -16,7 +15,3 @@ cpp07/
     └── Array.hpp
 
 ```
-
-# 🎯 Module Overview
-🔑 Key Concepts
-* Function and class templates
